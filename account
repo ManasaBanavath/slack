@@ -5,22 +5,5 @@
             website: "www.adobe.com",
             lastSeenDate: 1590184444907,
             signUpDate: 1585157041048,
-            propertyKeys: ["AP-OWPSEPKERBVQ-2-1"],
-            customAttributes: {
-                ActiveEngagementsInLast30Days: 8.0,
-                LastWeekActiveUsers: 1609.0,
-                HealthScoreGonG: "Yellow",
-                NumberOfCustomAttributes: 6.0,
-                MAU_31_61: 2737.0,
-                NumberOfTemplates: 12.0,
-                IsPxCsIntegrationEnabled: false,
-                AccountOwner: null,
-                CSMNameGonG: "Travis Ulle",
-                ActiveSurveysInLast30Days: 0.0,
-                ARRGonG: 10000.0,
-                slackEnabled: false,
-                numberOfProducts: 2.0 },
-            sfdcContactId: "0033l00002ShgaIAAR",
-            platformType: "MAC_OS_X",
-            browserType: "CHROME",
+            propertyKeys: ["AP-OWPSEPKERBVQ-2-1"]
 }
