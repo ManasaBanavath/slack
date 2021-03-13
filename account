@@ -22,12 +22,5 @@
                 numberOfProducts: 2.0 },
             sfdcContactId: "0033l00002ShgaIAAR",
             platformType: "MAC_OS_X",
-            browserType: "CHROME",
-            lastInferredLocation: {
-                countryName: "United States",
-                countryCode: "US",
-                stateName: "Oregon",
-                stateCode: "US-OR",
-                city: "Portland",
-                postalCode: "97086",}
+            browserType: "CHROME"
 }
