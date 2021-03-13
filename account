@@ -3,6 +3,5 @@
             name: "Adobe Experience Platform",
             numberOfEmployees: 1200,
             lastSeenDate: 1590184444907,
-            signUpDate: 1585157041048,
-            propertyKeys: ["AP-OWPSEPKERBVQ-2-1"]
+            signUpDate: 1585157041048
 }
