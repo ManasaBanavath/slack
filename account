@@ -22,5 +22,5 @@
                 numberOfProducts: 2.0 },
             sfdcContactId: "0033l00002ShgaIAAR",
             platformType: "MAC_OS_X",
-            browserType: "CHROME"
+            browserType: "CHROME",
 }
