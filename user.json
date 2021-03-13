@@ -1,0 +1,78 @@
+{
+            "aptrinsicId": "03da9a98-52a6-4649-a4bd-acedc7fdece1",
+            "identifyId": "82bbe8b1-04ca-4d8a-8da9-b355d88935fa",
+            "type": "USER",
+            "gender": "EMPTY_GENDER",
+            "email": "aadkins@adobe.com",
+            "firstName": "Amy",
+            "lastName": "Adkins",
+            "lastSeenDate": 1590184444907,
+            "signUpDate": 1585157041048,
+            "firstVisitDate": 0,
+            "title": "",
+            "phone": "",
+            "score": 0,
+            "role": "",
+            "subscriptionId": "",
+            "accountId": "14b6e0ae-7a6c-4177-b331-281facae1d25",
+            "numberOfVisits": 4,
+            "location": {
+                "countryName": "",
+                "countryCode": "",
+                "stateName": "",
+                "stateCode": "",
+                "city": "",
+                "street": "",
+                "postalCode": "",
+                "continent": "",
+                "regionName": "",
+                "timeZone": "",
+                "coordinates": {
+                    "latitude": 0.0,
+                    "longitude": 0.0
+                }
+            },
+            "propertyKeys": [
+                "AP-OWPSEPKERBVQ-2-1"
+            ],
+            "createDate": 1585157041043,
+            "lastModifiedDate": 1606306821546,
+            "customAttributes": {
+                "weeklySignupReportEnabled": false,
+                "dailySignupReportEnabled": false,
+                "weeklyAdoptionReportEnabled": true,
+                "PersonaGonG": null
+            },
+            "globalUnsubscribe": false,
+            "sfdcContactId": "0033l00002ShgaIAAR",
+            "lastVisitedUserAgentData": [
+                {
+                    "propertyKey": "AP-OWPSEPKERBVQ-2-1",
+                    "userAgent": {
+                        "rawUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36",
+                        "device": "COMPUTER",
+                        "platformType": "MAC_OS_X",
+                        "platformVersion": "MAC_OS_X",
+                        "browserType": "CHROME",
+                        "browserVersion": "CHROME80"
+                    }
+                }
+            ],
+            "id": "82bbe8b1-04ca-4d8a-8da9-b355d88935fa",
+            "lastInferredLocation": {
+                "countryName": "United States",
+                "countryCode": "US",
+                "stateName": "Oregon",
+                "stateCode": "US-OR",
+                "city": "Portland",
+                "street": "",
+                "postalCode": "97086",
+                "continent": "NA",
+                "regionName": "Oregon",
+                "timeZone": "-07:00",
+                "coordinates": {
+                    "latitude": 45.5234489440918,
+                    "longitude": -122.67620849609375
+                }
+            }
+        },
