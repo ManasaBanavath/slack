@@ -1,9 +1,4 @@
 {
             "id": "14b6e0ae-7a6c-4177-b331-281facae1d25",
-            "name": "Adobe-Experience-Platform",
-            "numberOfEmployees": 1200,
-            "numberOfUsers": 0,
-            "propertyKeys": ["AP-OWPSEPKERBVQ-2-1"],
-            "createDate": 1565825782300,
-            "lastModifiedDate": 1615522486879
+            "name": "Adobe-Experience-Platform"
 }
