@@ -6,28 +6,5 @@
             "numberOfUsers": 0,
             "propertyKeys": ["AP-OWPSEPKERBVQ-2-1"],
             "createDate": 1565825782300,
-            "lastModifiedDate": 1615522486879,
-            "customAttributes": {
-                "ActiveEngagementsInLast30Days": 8.0,
-                "LastWeekActiveUsers": 1609.0,
-                "HealthScoreGonG": "Yellow",
-                "NumberOfCustomAttributes": 6.0,
-                "MAU_31_61": 2737.0,
-                "NumberOfTemplates": 12.0,
-                "IsPxCsIntegrationEnabled": false,
-                "AccountOwner": null,
-                "CSMNameGonG": "TravisUlle",
-                "ActiveSurveysInLast30Days": 0.0,
-                "ARRGonG": 10000.0,
-                "slackEnabled": false,
-                "numberOfProducts": 2.0,
-                "ProductStage": null,
-                "activeEngagementsCount": 1.0,
-                "awsS3Enabled": false,
-                "NumberOfNewFeatures": 2.0,
-                "DAU": 842.0,
-                "NumberOfCustomEvents": 252.0,
-                "NumberOfJoTriggeredEngagements": 0.0,
-                "NumberOfCustomDashboards": 6.0
-            }
+            "lastModifiedDate": 1615522486879
 }
